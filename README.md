@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tnt-fhuffner
-- 👀 I’m interested in Web and Game development
-- 🌱 I’m currently learning Flutterflow and Game development with Roblox and Unity
-- 💞️ I’m looking to collaborate on Frontend and Mobile projects
+- 👀 I’m interested in Project Management and Software Development (AI, Automation)
+- 🌱 I’m currently learning PMBok and Automation Development
+- 💞️ I’m looking to collaborate on PMO and PO
 - 📫 How to reach me lipedev91@gmail.com
 
 <!---
